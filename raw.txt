@@ -1,0 +1,792 @@
+__________ is the process of extending a pattern by placing it inside itself
+ Chunking
+ Continuity
+ Displacement
+ Recursion
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Recursion
+1 point
+An experiment design that assigns each participant to multiple condition is called a __________ subjects design
+ between
+ cross
+ single
+ within
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+within
+1 point
+An iconic symbol bears a __________ resemblance to what it refers to
+ clear
+ specific
+ symbolic
+ vague
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+clear
+1 point
+The basic units of meaning in a language are __________
+ holophrases
+ morphemes
+ phonemes
+ words
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+morphemes
+1 point
+__________ are meaningless speech sounds that serve as the fundamental building blocks of language
+ Calls
+ Holophrases
+ Morphemes
+ Phonemes
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Phonemes
+1 point
+The set of rules for ordering words and phrases into sentences is known as __________
+ chunking
+ discourse
+ displacement
+ syntax
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+syntax
+1 point
+The ability to refer to things and events beyond the here and now is called __________
+ discourse
+ displacement
+ imagination
+ recursion
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+displacement
+1 point
+The question of whether human language evolved gradually or rapidly is known as the __________ debate
+ centrality of syntax
+ continuity
+ natural selection
+ protolanguage
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+continuity
+1 point
+Two members of the same species are known as __________
+ dominance hierarchy
+ social group
+ conspecifics
+ hive mates
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+conspecifics
+1 point
+__________ holds whatever we are currently thinking about
+ Chunking
+ Discourse
+ Syntax
+ Working memory
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Working memory
+When a test produces the similar results over repeated manipulations it is said to possess _________
+ accuracy
+ recall
+ reliability
+ validity
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+reliability
+1 point
+A quick movement of the eyes while reading is known as a __________, and a momentary gaze of the eyes on a single location while reading is known as a __________
+ fixation/saccade
+ prime/target
+ saccade/fixation
+ target/prime
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+saccade/fixation
+1 point
+A memory task in which participants are allowed to repeat the items in fixed order is called a __________ recall task
+ delayed
+ free
+ implicit
+ serial
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+serial
+1 point
+The __________ lobe at that side of the head processes auditory input from the ears and is also responsible for object recognition
+ frontal
+ occipital
+ parietal
+ temporal
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+temporal
+1 point
+__________ is an implicit memory process which enhances retrieval of an item due to previous exposure of similar items
+ Delayed recall
+ Priming
+ Regression
+ Working memory
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Priming
+1 point
+__________ learning is a form of learning that takes place outside of conscious awareness
+ Implicit
+ Subliminal
+ Transient
+ Unconscious
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Implicit
+1 point
+The __________ is an ERP component that has been linked to the processing of semantic anomaly
+ FOXP2
+ N400
+ P300
+ PET 
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+N400
+1 point
+Time difference between stimulus presentation and response initiation is called __________
+ Accuracy
+ Error rate
+ Latency
+ Priming 
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Latency
+1 point
+The percentage of correct responses over a set of trials is known as __________
+ accuracy
+ recall
+ reliability
+ validity
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+accuracy
+1 point
+__________ is a condition due to brain damage and characterized by fluent speech that is filled with vocabulary errors accompanied by difficulty in comprehending speech
+ Apraxia of speech
+ Broca’s aphasia
+ Specific language impairment
+ Wernicke’s aphasia
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Wernicke’s aphasia
+The number of wavelengths of sound that pass a given point in a given amount of time is called ___
+ Amplitude
+ Frequency
+ Pitch
+ Timbre
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Frequency
+1 point
+A structure extending inside the length of the cochlea which also divides it into two is called the____________ membrane
+ basilar
+ cochlear
+ macular
+ tympanic
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+basilar
+1 point
+The observation that there is no reliable relationship between a phoneme and the acoustic signal is known as __________
+ lack of invariance
+ phonemic restoration
+ categorical perception
+ metrical segmentation
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+lack of invariance
+1 point
+The process of filling in missing segments of the speech stream with contextually appropriate material is known as __________
+ categorical perception
+ phonemic restoration
+ prosodic bootstrapping
+ the McGurk effect
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+phonemic restoration
+1 point
+During one cycle the amount of change a wave goes though is called __________
+ amplitude
+ frequency
+ loudness
+ pitch 
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+amplitude
+1 point
+Pattern of frequencies in the speech stream along with their temporal change can be displayed through_________________
+ audiogram
+ microgram
+ phonogram
+ spectrogram
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+spectrogram
+1 point
+The process of experiencing continuously changing stimuli as belonging to two or more discrete sets is called __________ perception
+ categorical
+ discriminatory
+ extrasensory
+ multimodal
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+categorical
+1 point
+The __________ effect is an artificially induced illusion in which the auditory information for one speech sound, such as b, is combining with the visual information for another speech sound, such as g, to produce the perception of a third speech sound, such as d
+ McDonald
+ McGuffey
+ McGurk
+ McMillan
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+McGurk
+1 point
+Frequencies higher than the fundamental frequency that are also produced by a vibrating object are called __________
+ formants
+ overtones
+ periodic sounds
+ sine waves
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+overtones
+1 point
+The psychological perception of sound wave complexity is known as __________
+ frequency
+ overtone
+ prosody
+ timbre
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+timbre
+Restricting airflow at _________________ locations within the oral cavity produces a consonant sound
+ edge of obstruction
+ locus of control
+ place of articulation
+ point of no return
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+place of articulation
+1 point
+A(n) __________ is a vowel combination that is perceived as a single phoneme
+ amalgam
+ diphthong
+ heterophone
+ schwa
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+diphthong
+1 point
+The frames-then-content model explains babbling in terms of repeated __________ movements
+ jaw
+ lip
+ throat
+ tongue
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+jaw
+1 point
+As per the dual stream model the ventral stream is also known as the “__________” stream, and the dorsal stream is also known as the “__________” stream
+ how/when
+ what/how
+ when/where
+ where/what
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+what/how
+1 point
+According to the Wernicke-Geschwind model __________ is a band of neural fibers extending from the temporal lobe to the frontal lobe
+ arcuate fasciculus
+ basal ganglia
+ corpus callosum
+ limbic system
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+arcuate fasciculus
+1 point
+Damage to the cerebellum can lead to a condition known as __________, which is a motor speech disorder characterized by poor articulation of phonemes and prosody
+ aphasia
+ apoplexy
+ dysarthria
+ stuttering
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+dysarthria
+1 point
+A __________ model is a computer program that simulates a cognitive process in a manner that is consistent with what is currently known about human cognition
+ cognitive
+ computational
+ feedforward
+ simulation
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+computational
+1 point
+Babbling uttered as the infant approaches and manipulates a novel object is called __________-directed vocalization
+ infant
+ novelty
+ object
+ subject
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+object
+1 point
+A consonant sound like b or p that is produced by bringing the upper and lower lips together is called a(n) __________ consonant
+ alveolar
+ bilabial
+ labiodental
+ velar
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+bilabial
+1 point
+__________ aphasia is a condition in which brain damage leads to a loss of speech production without a loss of speech comprehension
+ Conduction
+ Expressive
+ Receptive
+ Wernicke’s
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Expressive
+__________ vocabulary is the set of words a person can recognize and understand the meaning
+ Receptive
+ Inductive
+ Internal
+ Basic
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Receptive
+1 point
+Daddy and Baby are playing. Daddy picks up the toy horse and says “Look at the horsie!” before handing it to Baby. In doing this, Daddy has created __________
+ embodied cognition
+ fast mapping
+ joint attention
+ referential uncertainty
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+joint attention
+1 point
+The concept of __________ refers to the storage of information about words in long-term memory
+ mental lexicon
+ symbol grounding
+ embodied cognition
+ receptive vocabulary
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+mental lexicon
+1 point
+A relationship between two words that frequently co-occur, such as dog and bone, is called __________
+ thematic
+ associative
+ syntactic
+ referential
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+thematic
+1 point
+__________ vocabulary is the set of words a person can use in appropriate contexts
+ productive
+ deductive
+ external
+ augmented
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+productive
+1 point
+The assumption that a new word refers to the entire object and not just a part of it is called the __________ assumption
+ mutual exclusivity
+ referential uncertainty
+ taxonomic
+ whole object
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+whole object
+1 point
+__________ is a measure of how often a particular word in all its forms occurs in a language
+ Neighborhood density
+ Phonotactic probability
+ Productive vocabulary
+ Word frequency
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Word frequency
+1 point
+A relationship between to words that belong to the same category, such as dog and cat, is called __________
+ taxonomic
+ categorical
+ semantic
+ inferential
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+taxonomic
+1 point
+The most basic form of a word is called its __________
+ lemma
+ lexicon
+ plain form
+ root
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+lemma
+1 point
+Generally speaking, we can define a __________ as a minimal unit of meaningful speech that can stand alone
+ clause
+ morpheme
+ phrase
+ word
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+word
+____________ are set of rules for ordering words in a sentence
+ declension
+ grammar
+ sentence structure
+ syntax
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+syntax
+1 point
+A sentence structure in which the patient is mapped onto the subject position is said to be in __________
+ inaction mode
+ passive voice
+ patient perspective
+ complex form
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+passive voice
+1 point
+A sentence that is placed inside of another sentence for the purpose of describing a noun is called a __________
+ cleft sentence
+ modifying phrase
+ relative clause
+ subordinate sequence
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+relative clause
+1 point
+__________ word order defines sequence of sentence elements in a language
+ canonical
+ expected
+ standard
+ syntactic
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+canonical
+1 point
+A sentence structure in which the agent is mapped onto the subject position is said to be in __________
+ action mode
+ active voice
+ agent perspective
+ simple form
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+active voice
+1 point
+A two-staged model of sentence processing in which syntactic analysis precedes semantic interpretation is known as the __________ model
+ constraint based
+ dual route
+ garden path
+ orchard row
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+garden path
+1 point
+Mean length of utterance, or MLU, is the standard measure of a child’s __________
+ cognitive capacity
+ linguistic development
+ productive vocabulary
+ syntactic complexity
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+syntactic complexity
+1 point
+A __________ is a simple sentence that is part of a larger complex sentence
+ clause
+ cleft
+ clone
+ cloze
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+clause
+1 point
+A syntactic parsing strategy that assumes the simplest possible sentence structure is known as __________
+ heuristic assignment
+ late closure
+ minimal attachment
+ simple completion
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+minimal attachment
+1 point
+A syntactic structure that attaches an introductory clause to the beginning of a sentence for the purpose of highlighting one of the participants in the event is known as a __________ sentence
+ cleft
+ complex
+ relative
+ reversible
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+cleft
+Information that all participants of a conversation share are called __________
+ collocation
+ common ground
+ joint attention
+ pragmatics
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+common ground
+1 point
+The framework guiding the presentation of events and characters in a narrative is known as __________
+ episode outline
+ narrative structure
+ situation model
+ story grammar
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+story grammar
+1 point
+The __________ ground is the information that one interlocutor knows but the other one doesn’t
+ common
+ hidden
+ privileged
+ upper
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+privileged
+1 point
+A __________ is a mental framework for organizing our understanding of how some aspect of the world works. We have these for all sorts of social behaviors that we engage in, such as eating in a restaurant or going out on a date
+ concept
+ model
+ referent
+ schema
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+schema
+1 point
+The __________ is the entity in the discourse that an anaphor refers back to
+ antecedent
+ precursor
+ referent
+ subject
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+antecedent
+1 point
+Semantically empty words like uh and um that signal planning difficulties are known as __________
+ anticipated interruptions
+ conversational fillers
+ discourse distractors
+ performance errors
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+conversational fillers
+1 point
+The __________ is the speaker’s intended meaning behind an utterance
+ illocution
+ locution
+ allocution
+ perlocution
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+illocution
+1 point
+__________ is the spontaneous speech people use as they engage in joint activities
+ Daily dialogue
+ Idle chit-chat
+ Impromptu conversation
+ Talk-in-interaction
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Talk-in-interaction
+1 point
+The term __________ refers to the various ways that context contributes to the meaning of a discourse
+ polemics
+ pragmatics
+ prosthetics
+ proxemics
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+pragmatics
+1 point
+__________ gestures, which are hand movements that speakers make while they talk, tend to be lined up at the clause level
+ Canonical
+ Clarifying
+ Clausal
+ Cospeech
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Cospeech
+People who can speak two or languages fluently are called _________
+ bilingual
+ heterophone
+ paraplegic
+ polyglot
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+bilingual
+1 point
+__________ is a change from one language to another within a single interaction
+ Bilingual accommodation
+ Codeswitching
+ Language negotiation
+ Translation
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Codeswitching
+1 point
+An experimental procedure that asks participants to name as many members of a given category as possible is known as a __________ task
+ category construction
+ free association
+ lexical decision
+ semantic categorization
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+semantic categorization
+1 point
+The __________ hypothesis suggests that bilinguals’ constant need to monitor and control their languages leads to benefits in nonverbal cognition
+ adaptive control
+ dual route
+ source monitoring
+ weaker links
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+adaptive control
+1 point
+The language spoken in an immigrant’s country of origin is called his or her __________ language
+ heritage
+ dominant
+ native
+ societal
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+heritage
+1 point
+Words in two different languages that refer to the same concept are called __________
+ bilingual synonyms
+ conceptual identities
+ cross-language primes
+ translation equivalents
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+translation equivalents
+1 point
+The __________ model is a theory of language processing that assumes separate lexicons for each language connected by a common underlying conceptual level
+ interference
+ revised hierarchical
+ sense
+ weaker links
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+revised hierarchical
+1 point
+The number of years spent in the country where the second language is spoken is called the learner’s __________
+ length of residence
+ period of adjustment
+ extent of exposure
+ span of inclusion
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+length of residence
+1 point
+The ability to ignore distracting or misleading information is known as __________
+ executive control
+ interference inhibition
+ selective attention
+ source monitoring
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+interference inhibition
+1 point
+The __________ hypothesis proposes that children have a biological predisposition to learn languages but lose this ability around puberty
+ biological program
+ cerebral plasticity
+ critical period
+ weaker links
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+critical period

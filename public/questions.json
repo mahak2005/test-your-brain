@@ -1,0 +1,806 @@
+[
+  {
+    "question": "__________ is the process of extending a pattern by placing it inside itself",
+    "options": [
+      "Chunking",
+      "Continuity",
+      "Displacement",
+      "Recursion"
+    ],
+    "answer": "Recursion"
+  },
+  {
+    "question": "An experiment design that assigns each participant to multiple condition is called a __________ subjects design",
+    "options": [
+      "between",
+      "cross",
+      "single",
+      "within"
+    ],
+    "answer": "within"
+  },
+  {
+    "question": "An iconic symbol bears a __________ resemblance to what it refers to",
+    "options": [
+      "clear",
+      "specific",
+      "symbolic",
+      "vague"
+    ],
+    "answer": "clear"
+  },
+  {
+    "question": "The basic units of meaning in a language are __________",
+    "options": [
+      "holophrases",
+      "morphemes",
+      "phonemes",
+      "words"
+    ],
+    "answer": "morphemes"
+  },
+  {
+    "question": "__________ are meaningless speech sounds that serve as the fundamental building blocks of language",
+    "options": [
+      "Calls",
+      "Holophrases",
+      "Morphemes",
+      "Phonemes"
+    ],
+    "answer": "Phonemes"
+  },
+  {
+    "question": "The set of rules for ordering words and phrases into sentences is known as __________",
+    "options": [
+      "chunking",
+      "discourse",
+      "displacement",
+      "syntax"
+    ],
+    "answer": "syntax"
+  },
+  {
+    "question": "The ability to refer to things and events beyond the here and now is called __________",
+    "options": [
+      "discourse",
+      "displacement",
+      "imagination",
+      "recursion"
+    ],
+    "answer": "displacement"
+  },
+  {
+    "question": "The question of whether human language evolved gradually or rapidly is known as the __________ debate",
+    "options": [
+      "centrality of syntax",
+      "continuity",
+      "natural selection",
+      "protolanguage"
+    ],
+    "answer": "continuity"
+  },
+  {
+    "question": "Two members of the same species are known as __________",
+    "options": [
+      "dominance hierarchy",
+      "social group",
+      "conspecifics",
+      "hive mates"
+    ],
+    "answer": "conspecifics"
+  },
+  {
+    "question": "__________ holds whatever we are currently thinking about",
+    "options": [
+      "Chunking",
+      "Discourse",
+      "Syntax",
+      "Working memory"
+    ],
+    "answer": "Working memory"
+  },
+  {
+    "question": "When a test produces the similar results over repeated manipulations it is said to possess _________",
+    "options": [
+      "accuracy",
+      "recall",
+      "reliability",
+      "validity"
+    ],
+    "answer": "reliability"
+  },
+  {
+    "question": "A quick movement of the eyes while reading is known as a __________, and a momentary gaze of the eyes on a single location while reading is known as a __________",
+    "options": [
+      "fixation/saccade",
+      "prime/target",
+      "saccade/fixation",
+      "target/prime"
+    ],
+    "answer": "saccade/fixation"
+  },
+  {
+    "question": "A memory task in which participants are allowed to repeat the items in fixed order is called a __________ recall task",
+    "options": [
+      "delayed",
+      "free",
+      "implicit",
+      "serial"
+    ],
+    "answer": "serial"
+  },
+  {
+    "question": "The __________ lobe at that side of the head processes auditory input from the ears and is also responsible for object recognition",
+    "options": [
+      "frontal",
+      "occipital",
+      "parietal",
+      "temporal"
+    ],
+    "answer": "temporal"
+  },
+  {
+    "question": "__________ is an implicit memory process which enhances retrieval of an item due to previous exposure of similar items",
+    "options": [
+      "Delayed recall",
+      "Priming",
+      "Regression",
+      "Working memory"
+    ],
+    "answer": "Priming"
+  },
+  {
+    "question": "__________ learning is a form of learning that takes place outside of conscious awareness",
+    "options": [
+      "Implicit",
+      "Subliminal",
+      "Transient",
+      "Unconscious"
+    ],
+    "answer": "Implicit"
+  },
+  {
+    "question": "The __________ is an ERP component that has been linked to the processing of semantic anomaly",
+    "options": [
+      "FOXP2",
+      "N400",
+      "P300",
+      "PET"
+    ],
+    "answer": "N400"
+  },
+  {
+    "question": "Time difference between stimulus presentation and response initiation is called __________",
+    "options": [
+      "Accuracy",
+      "Error rate",
+      "Latency",
+      "Priming"
+    ],
+    "answer": "Latency"
+  },
+  {
+    "question": "The percentage of correct responses over a set of trials is known as __________",
+    "options": [
+      "accuracy",
+      "recall",
+      "reliability",
+      "validity"
+    ],
+    "answer": "accuracy"
+  },
+  {
+    "question": "__________ is a condition due to brain damage and characterized by fluent speech that is filled with vocabulary errors accompanied by difficulty in comprehending speech",
+    "options": [
+      "Apraxia of speech",
+      "Broca’s aphasia",
+      "Specific language impairment",
+      "Wernicke’s aphasia"
+    ],
+    "answer": "Wernicke’s aphasia"
+  },
+  {
+    "question": "The number of wavelengths of sound that pass a given point in a given amount of time is called ___",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Pitch",
+      "Timbre"
+    ],
+    "answer": "Frequency"
+  },
+  {
+    "question": "A structure extending inside the length of the cochlea which also divides it into two is called the____________ membrane",
+    "options": [
+      "basilar",
+      "cochlear",
+      "macular",
+      "tympanic"
+    ],
+    "answer": "basilar"
+  },
+  {
+    "question": "The observation that there is no reliable relationship between a phoneme and the acoustic signal is known as __________",
+    "options": [
+      "lack of invariance",
+      "phonemic restoration",
+      "categorical perception",
+      "metrical segmentation"
+    ],
+    "answer": "lack of invariance"
+  },
+  {
+    "question": "The process of filling in missing segments of the speech stream with contextually appropriate material is known as __________",
+    "options": [
+      "categorical perception",
+      "phonemic restoration",
+      "prosodic bootstrapping",
+      "the McGurk effect"
+    ],
+    "answer": "phonemic restoration"
+  },
+  {
+    "question": "During one cycle the amount of change a wave goes though is called __________",
+    "options": [
+      "amplitude",
+      "frequency",
+      "loudness",
+      "pitch"
+    ],
+    "answer": "amplitude"
+  },
+  {
+    "question": "Pattern of frequencies in the speech stream along with their temporal change can be displayed through_________________",
+    "options": [
+      "audiogram",
+      "microgram",
+      "phonogram",
+      "spectrogram"
+    ],
+    "answer": "spectrogram"
+  },
+  {
+    "question": "The process of experiencing continuously changing stimuli as belonging to two or more discrete sets is called __________ perception",
+    "options": [
+      "categorical",
+      "discriminatory",
+      "extrasensory",
+      "multimodal"
+    ],
+    "answer": "categorical"
+  },
+  {
+    "question": "The __________ effect is an artificially induced illusion in which the auditory information for one speech sound, such as b, is combining with the visual information for another speech sound, such as g, to produce the perception of a third speech sound, such as d",
+    "options": [
+      "McDonald",
+      "McGuffey",
+      "McGurk",
+      "McMillan"
+    ],
+    "answer": "McGurk"
+  },
+  {
+    "question": "Frequencies higher than the fundamental frequency that are also produced by a vibrating object are called __________",
+    "options": [
+      "formants",
+      "overtones",
+      "periodic sounds",
+      "sine waves"
+    ],
+    "answer": "overtones"
+  },
+  {
+    "question": "The psychological perception of sound wave complexity is known as __________",
+    "options": [
+      "frequency",
+      "overtone",
+      "prosody",
+      "timbre"
+    ],
+    "answer": "timbre"
+  },
+  {
+    "question": "Restricting airflow at _________________ locations within the oral cavity produces a consonant sound",
+    "options": [
+      "edge of obstruction",
+      "locus of control",
+      "place of articulation",
+      "point of no return"
+    ],
+    "answer": "place of articulation"
+  },
+  {
+    "question": "A(n) __________ is a vowel combination that is perceived as a single phoneme",
+    "options": [
+      "amalgam",
+      "diphthong",
+      "heterophone",
+      "schwa"
+    ],
+    "answer": "diphthong"
+  },
+  {
+    "question": "The frames-then-content model explains babbling in terms of repeated __________ movements",
+    "options": [
+      "jaw",
+      "lip",
+      "throat",
+      "tongue"
+    ],
+    "answer": "jaw"
+  },
+  {
+    "question": "As per the dual stream model the ventral stream is also known as the “__________” stream, and the dorsal stream is also known as the “__________” stream",
+    "options": [
+      "how/when",
+      "what/how",
+      "when/where",
+      "where/what"
+    ],
+    "answer": "what/how"
+  },
+  {
+    "question": "According to the Wernicke-Geschwind model __________ is a band of neural fibers extending from the temporal lobe to the frontal lobe",
+    "options": [
+      "arcuate fasciculus",
+      "basal ganglia",
+      "corpus callosum",
+      "limbic system"
+    ],
+    "answer": "arcuate fasciculus"
+  },
+  {
+    "question": "Damage to the cerebellum can lead to a condition known as __________, which is a motor speech disorder characterized by poor articulation of phonemes and prosody",
+    "options": [
+      "aphasia",
+      "apoplexy",
+      "dysarthria",
+      "stuttering"
+    ],
+    "answer": "dysarthria"
+  },
+  {
+    "question": "A __________ model is a computer program that simulates a cognitive process in a manner that is consistent with what is currently known about human cognition",
+    "options": [
+      "cognitive",
+      "computational",
+      "feedforward",
+      "simulation"
+    ],
+    "answer": "computational"
+  },
+  {
+    "question": "Babbling uttered as the infant approaches and manipulates a novel object is called __________-directed vocalization",
+    "options": [
+      "infant",
+      "novelty",
+      "object",
+      "subject"
+    ],
+    "answer": "object"
+  },
+  {
+    "question": "A consonant sound like b or p that is produced by bringing the upper and lower lips together is called a(n) __________ consonant",
+    "options": [
+      "alveolar",
+      "bilabial",
+      "labiodental",
+      "velar"
+    ],
+    "answer": "bilabial"
+  },
+  {
+    "question": "__________ aphasia is a condition in which brain damage leads to a loss of speech production without a loss of speech comprehension",
+    "options": [
+      "Conduction",
+      "Expressive",
+      "Receptive",
+      "Wernicke’s"
+    ],
+    "answer": "Expressive"
+  },
+  {
+    "question": "__________ vocabulary is the set of words a person can recognize and understand the meaning",
+    "options": [
+      "Receptive",
+      "Inductive",
+      "Internal",
+      "Basic"
+    ],
+    "answer": "Receptive"
+  },
+  {
+    "question": "Daddy and Baby are playing. Daddy picks up the toy horse and says “Look at the horsie!” before handing it to Baby. In doing this, Daddy has created __________",
+    "options": [
+      "embodied cognition",
+      "fast mapping",
+      "joint attention",
+      "referential uncertainty"
+    ],
+    "answer": "joint attention"
+  },
+  {
+    "question": "The concept of __________ refers to the storage of information about words in long-term memory",
+    "options": [
+      "mental lexicon",
+      "symbol grounding",
+      "embodied cognition",
+      "receptive vocabulary"
+    ],
+    "answer": "mental lexicon"
+  },
+  {
+    "question": "A relationship between two words that frequently co-occur, such as dog and bone, is called __________",
+    "options": [
+      "thematic",
+      "associative",
+      "syntactic",
+      "referential",
+      "No, the answer is incorrect."
+    ],
+    "answer": "thematic"
+  },
+  {
+    "question": "__________ vocabulary is the set of words a person can use in appropriate contexts",
+    "options": [
+      "productive",
+      "deductive",
+      "external",
+      "augmented"
+    ],
+    "answer": "productive"
+  },
+  {
+    "question": "The assumption that a new word refers to the entire object and not just a part of it is called the __________ assumption",
+    "options": [
+      "mutual exclusivity",
+      "referential uncertainty",
+      "taxonomic",
+      "whole object"
+    ],
+    "answer": "whole object"
+  },
+  {
+    "question": "__________ is a measure of how often a particular word in all its forms occurs in a language",
+    "options": [
+      "Neighborhood density",
+      "Phonotactic probability",
+      "Productive vocabulary",
+      "Word frequency"
+    ],
+    "answer": "Word frequency"
+  },
+  {
+    "question": "A relationship between to words that belong to the same category, such as dog and cat, is called __________",
+    "options": [
+      "taxonomic",
+      "categorical",
+      "semantic",
+      "inferential"
+    ],
+    "answer": "taxonomic"
+  },
+  {
+    "question": "The most basic form of a word is called its __________",
+    "options": [
+      "lemma",
+      "lexicon",
+      "plain form",
+      "root",
+      "No, the answer is incorrect."
+    ],
+    "answer": "lemma"
+  },
+  {
+    "question": "Generally speaking, we can define a __________ as a minimal unit of meaningful speech that can stand alone",
+    "options": [
+      "clause",
+      "morpheme",
+      "phrase",
+      "word",
+      "No, the answer is incorrect."
+    ],
+    "answer": "word"
+  },
+  {
+    "question": "____________ are set of rules for ordering words in a sentence",
+    "options": [
+      "declension",
+      "grammar",
+      "sentence structure",
+      "syntax"
+    ],
+    "answer": "syntax"
+  },
+  {
+    "question": "A sentence structure in which the patient is mapped onto the subject position is said to be in __________",
+    "options": [
+      "inaction mode",
+      "passive voice",
+      "patient perspective",
+      "complex form"
+    ],
+    "answer": "passive voice"
+  },
+  {
+    "question": "A sentence that is placed inside of another sentence for the purpose of describing a noun is called a __________",
+    "options": [
+      "cleft sentence",
+      "modifying phrase",
+      "relative clause",
+      "subordinate sequence"
+    ],
+    "answer": "relative clause"
+  },
+  {
+    "question": "__________ word order defines sequence of sentence elements in a language",
+    "options": [
+      "canonical",
+      "expected",
+      "standard",
+      "syntactic"
+    ],
+    "answer": "canonical"
+  },
+  {
+    "question": "A sentence structure in which the agent is mapped onto the subject position is said to be in __________",
+    "options": [
+      "action mode",
+      "active voice",
+      "agent perspective",
+      "simple form"
+    ],
+    "answer": "active voice"
+  },
+  {
+    "question": "A two-staged model of sentence processing in which syntactic analysis precedes semantic interpretation is known as the __________ model",
+    "options": [
+      "constraint based",
+      "dual route",
+      "garden path",
+      "orchard row"
+    ],
+    "answer": "garden path"
+  },
+  {
+    "question": "Mean length of utterance, or MLU, is the standard measure of a child’s __________",
+    "options": [
+      "cognitive capacity",
+      "linguistic development",
+      "productive vocabulary",
+      "syntactic complexity",
+      "No, the answer is incorrect."
+    ],
+    "answer": "syntactic complexity"
+  },
+  {
+    "question": "A __________ is a simple sentence that is part of a larger complex sentence",
+    "options": [
+      "clause",
+      "cleft",
+      "clone",
+      "cloze"
+    ],
+    "answer": "clause"
+  },
+  {
+    "question": "A syntactic parsing strategy that assumes the simplest possible sentence structure is known as __________",
+    "options": [
+      "heuristic assignment",
+      "late closure",
+      "minimal attachment",
+      "simple completion"
+    ],
+    "answer": "minimal attachment"
+  },
+  {
+    "question": "A syntactic structure that attaches an introductory clause to the beginning of a sentence for the purpose of highlighting one of the participants in the event is known as a __________ sentence",
+    "options": [
+      "cleft",
+      "complex",
+      "relative",
+      "reversible"
+    ],
+    "answer": "cleft"
+  },
+  {
+    "question": "Information that all participants of a conversation share are called __________",
+    "options": [
+      "collocation",
+      "common ground",
+      "joint attention",
+      "pragmatics"
+    ],
+    "answer": "common ground"
+  },
+  {
+    "question": "The framework guiding the presentation of events and characters in a narrative is known as __________",
+    "options": [
+      "episode outline",
+      "narrative structure",
+      "situation model",
+      "story grammar"
+    ],
+    "answer": "story grammar"
+  },
+  {
+    "question": "The __________ ground is the information that one interlocutor knows but the other one doesn’t",
+    "options": [
+      "common",
+      "hidden",
+      "privileged",
+      "upper"
+    ],
+    "answer": "privileged"
+  },
+  {
+    "question": "A __________ is a mental framework for organizing our understanding of how some aspect of the world works. We have these for all sorts of social behaviors that we engage in, such as eating in a restaurant or going out on a date",
+    "options": [
+      "concept",
+      "model",
+      "referent",
+      "schema"
+    ],
+    "answer": "schema"
+  },
+  {
+    "question": "The __________ is the entity in the discourse that an anaphor refers back to",
+    "options": [
+      "antecedent",
+      "precursor",
+      "referent",
+      "subject"
+    ],
+    "answer": "antecedent"
+  },
+  {
+    "question": "Semantically empty words like uh and um that signal planning difficulties are known as __________",
+    "options": [
+      "anticipated interruptions",
+      "conversational fillers",
+      "discourse distractors",
+      "performance errors"
+    ],
+    "answer": "conversational fillers"
+  },
+  {
+    "question": "The __________ is the speaker’s intended meaning behind an utterance",
+    "options": [
+      "illocution",
+      "locution",
+      "allocution",
+      "perlocution"
+    ],
+    "answer": "illocution"
+  },
+  {
+    "question": "__________ is the spontaneous speech people use as they engage in joint activities",
+    "options": [
+      "Daily dialogue",
+      "Idle chit-chat",
+      "Impromptu conversation",
+      "Talk-in-interaction"
+    ],
+    "answer": "Talk-in-interaction"
+  },
+  {
+    "question": "The term __________ refers to the various ways that context contributes to the meaning of a discourse",
+    "options": [
+      "polemics",
+      "pragmatics",
+      "prosthetics",
+      "proxemics"
+    ],
+    "answer": "pragmatics"
+  },
+  {
+    "question": "__________ gestures, which are hand movements that speakers make while they talk, tend to be lined up at the clause level",
+    "options": [
+      "Canonical",
+      "Clarifying",
+      "Clausal",
+      "Cospeech"
+    ],
+    "answer": "Cospeech"
+  },
+  {
+    "question": "People who can speak two or languages fluently are called _________",
+    "options": [
+      "bilingual",
+      "heterophone",
+      "paraplegic",
+      "polyglot"
+    ],
+    "answer": "bilingual"
+  },
+  {
+    "question": "__________ is a change from one language to another within a single interaction",
+    "options": [
+      "Bilingual accommodation",
+      "Codeswitching",
+      "Language negotiation",
+      "Translation"
+    ],
+    "answer": "Codeswitching"
+  },
+  {
+    "question": "An experimental procedure that asks participants to name as many members of a given category as possible is known as a __________ task",
+    "options": [
+      "category construction",
+      "free association",
+      "lexical decision",
+      "semantic categorization"
+    ],
+    "answer": "semantic categorization"
+  },
+  {
+    "question": "The __________ hypothesis suggests that bilinguals’ constant need to monitor and control their languages leads to benefits in nonverbal cognition",
+    "options": [
+      "adaptive control",
+      "dual route",
+      "source monitoring",
+      "weaker links"
+    ],
+    "answer": "adaptive control"
+  },
+  {
+    "question": "The language spoken in an immigrant’s country of origin is called his or her __________ language",
+    "options": [
+      "heritage",
+      "dominant",
+      "native",
+      "societal"
+    ],
+    "answer": "heritage"
+  },
+  {
+    "question": "Words in two different languages that refer to the same concept are called __________",
+    "options": [
+      "bilingual synonyms",
+      "conceptual identities",
+      "cross-language primes",
+      "translation equivalents"
+    ],
+    "answer": "translation equivalents"
+  },
+  {
+    "question": "The __________ model is a theory of language processing that assumes separate lexicons for each language connected by a common underlying conceptual level",
+    "options": [
+      "interference",
+      "revised hierarchical",
+      "sense",
+      "weaker links"
+    ],
+    "answer": "revised hierarchical"
+  },
+  {
+    "question": "The number of years spent in the country where the second language is spoken is called the learner’s __________",
+    "options": [
+      "length of residence",
+      "period of adjustment",
+      "extent of exposure",
+      "span of inclusion"
+    ],
+    "answer": "length of residence"
+  },
+  {
+    "question": "The ability to ignore distracting or misleading information is known as __________",
+    "options": [
+      "executive control",
+      "interference inhibition",
+      "selective attention",
+      "source monitoring"
+    ],
+    "answer": "interference inhibition"
+  },
+  {
+    "question": "The __________ hypothesis proposes that children have a biological predisposition to learn languages but lose this ability around puberty",
+    "options": [
+      "biological program",
+      "cerebral plasticity",
+      "critical period",
+      "weaker links"
+    ],
+    "answer": "critical period"
+  }
+]

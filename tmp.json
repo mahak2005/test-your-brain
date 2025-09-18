@@ -1,0 +1,42 @@
+[
+  {
+    "question": "People who can speak two or languages fluently are called _________",
+    "options": [
+      "bilingual",
+      "heterophone",
+      "paraplegic",
+      "polyglot"
+    ],
+    "answer": "bilingual"
+  },
+  {
+    "question": "__________ is a change from one language to another within a single interaction",
+    "options": [
+      "Bilingual accommodation",
+      "Codeswitching",
+      "Language negotiation",
+      "Translation"
+    ],
+    "answer": "Codeswitching"
+  },
+  {
+    "question": "An experimental procedure that asks participants to name as many members of a given category as possible is known as a __________ task",
+    "options": [
+      "category construction",
+      "free association",
+      "lexical decision",
+      "semantic categorization"
+    ],
+    "answer": "semantic categorization"
+  },
+  {
+    "question": "The __________ hypothesis suggests that bilinguals’ constant need to monitor and control their languages leads to benefits in nonverbal cognition",
+    "options": [
+      "adaptive control",
+      "dual route",
+      "source monitoring",
+      "weaker links"
+    ],
+    "answer": "adaptive control"
+  }
+]
