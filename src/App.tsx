@@ -12,6 +12,7 @@ function shuffleArray<T>(array: T[]): T[] {
 }
 
 export default function App() {
+  const [allQuestions, setAllQuestions] = useState<Question[] | null>(null)
   const [questions, setQuestions] = useState<Question[] | null>(null)
   const [currentIndex, setCurrentIndex] = useState(0)
   const [selectedOption, setSelectedOption] = useState<string | null>(null)
@@ -33,7 +34,7 @@ export default function App() {
           ...q,
           options: shuffleArray(q.options),
         }))
-        setQuestions(shuffleArray(shuffled))
+        setAllQuestions(shuffleArray(shuffled))
         setError(null)
       } catch (e: any) {
         setError(e?.message ?? 'Unknown error')
@@ -73,9 +74,9 @@ export default function App() {
   }
 
   function handleStart() {
-    if (!questions || !numToAsk) return
+    if (!allQuestions || !numToAsk) return
     const pool = shuffleArray(
-      questions.map((q) => ({ ...q, options: shuffleArray(q.options) }))
+      allQuestions.map((q) => ({ ...q, options: shuffleArray(q.options) }))
     )
     const selected = pool.slice(0, Math.max(1, Math.min(numToAsk, pool.length)))
     setQuestions(selected)
@@ -104,10 +105,10 @@ export default function App() {
     )
   }
 
-  if (!questions) return null
+  if (!allQuestions) return null
 
   if (atStart) {
-    const max = questions.length
+    const max = allQuestions.length
     return (
       <main className="min-h-screen flex items-center justify-center p-4">
         <div className="w-full max-w-md bg-white rounded-xl shadow p-6 sm:p-8 space-y-4">
@@ -139,13 +140,15 @@ export default function App() {
     )
   }
 
-  if (completed) {
+  if (completed && questions) {
     return (
       <main className="min-h-screen flex items-center justify-center p-4">
         <ResultPage questions={questions} userAnswers={answers} onRestart={handleRestart} />
       </main>
     )
   }
+
+  if (!questions) return null
 
   const currentQuestion = questions[currentIndex]
 
