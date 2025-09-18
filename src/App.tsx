@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react'
+import { useEffect, useState } from 'react'
 import QuestionCard, { type Question } from './QuestionCard'
 import ResultPage from './ResultPage'
 
