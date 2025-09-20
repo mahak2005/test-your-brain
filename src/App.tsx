@@ -20,7 +20,8 @@ export default function App() {
   const [completed, setCompleted] = useState(false)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
-  const [numToAsk, setNumToAsk] = useState<number | null>(null)
+  const [selectedAssignment, setSelectedAssignment] = useState<number | null>(null)
+  const [showFeedback, setShowFeedback] = useState(false)
   const [atStart, setAtStart] = useState(true)
 
   useEffect(() => {
@@ -47,6 +48,7 @@ export default function App() {
 
   function handleSelect(option: string) {
     setSelectedOption(option)
+    setShowFeedback(true)
   }
 
   function handleNext() {
@@ -61,6 +63,7 @@ export default function App() {
     } else {
       setCurrentIndex(nextIndex)
       setSelectedOption(updated[nextIndex])
+      setShowFeedback(false)
     }
   }
 
@@ -69,21 +72,28 @@ export default function App() {
     setCurrentIndex(0)
     setSelectedOption(null)
     setCompleted(false)
-    setNumToAsk(null)
+    setSelectedAssignment(null)
+    setShowFeedback(false)
     setAtStart(true)
   }
 
   function handleStart() {
-    if (!allQuestions || !numToAsk) return
-    const pool = shuffleArray(
-      allQuestions.map((q) => ({ ...q, options: shuffleArray(q.options) }))
+    if (!allQuestions || selectedAssignment === null) return
+
+    const startIndex = (selectedAssignment - 1) * 10
+    const endIndex = Math.min(startIndex + 10, allQuestions.length)
+    const assignmentQuestions = allQuestions.slice(startIndex, endIndex)
+
+    const shuffled = shuffleArray(
+      assignmentQuestions.map((q) => ({ ...q, options: shuffleArray(q.options) }))
     )
-    const selected = pool.slice(0, Math.max(1, Math.min(numToAsk, pool.length)))
-    setQuestions(selected)
-    setAnswers(new Array(selected.length).fill(null))
+
+    setQuestions(shuffled)
+    setAnswers(new Array(shuffled.length).fill(null))
     setCurrentIndex(0)
     setSelectedOption(null)
     setCompleted(false)
+    setShowFeedback(false)
     setAtStart(false)
   }
 
@@ -108,32 +118,41 @@ export default function App() {
   if (!allQuestions) return null
 
   if (atStart) {
-    const max = allQuestions.length
+    const totalAssignments = Math.ceil(allQuestions.length / 10)
     return (
       <main className="min-h-screen flex items-center justify-center p-4">
         <div className="w-full max-w-md bg-white rounded-xl shadow p-6 sm:p-8 space-y-4">
-          <h1 className="text-2xl font-semibold text-gray-900">Start Quiz</h1>
-          <label className="block text-sm font-medium text-gray-700">Number of questions</label>
-          <input
-            type="number"
-            min={1}
-            max={max}
-            value={numToAsk ?? ''}
-            onChange={(e) => setNumToAsk(Number(e.target.value))}
-            placeholder={`1 - ${max}`}
+          <h1 className="text-2xl font-semibold text-gray-900">Select Assignment</h1>
+          <label className="block text-sm font-medium text-gray-700">Choose an assignment</label>
+          <select
+            value={selectedAssignment ?? ''}
+            onChange={(e) => setSelectedAssignment(Number(e.target.value))}
             className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          />
+          >
+            <option value="">Select assignment...</option>
+            {Array.from({ length: totalAssignments }, (_, i) => {
+              const assignmentNum = i + 1
+              // const startIdx = i * 10
+              // const endIdx = Math.min(startIdx + 10, allQuestions.length)
+              // const questionCount = endIdx - startIdx
+              return (
+                <option key={assignmentNum} value={assignmentNum}>
+                  Assignment {assignmentNum}
+                </option>
+              )
+            })}
+          </select>
           <button
             onClick={handleStart}
-            disabled={!numToAsk || numToAsk < 1 || numToAsk > max}
+            disabled={selectedAssignment === null}
             className={
               `w-full px-4 py-2 rounded-lg font-medium transition-colors ` +
-              (numToAsk && numToAsk >= 1 && numToAsk <= max
+              (selectedAssignment !== null
                 ? 'bg-blue-600 text-white hover:bg-blue-700'
                 : 'bg-gray-200 text-gray-500 cursor-not-allowed')
             }
           >
-            Start
+            Start Assignment
           </button>
         </div>
       </main>
@@ -161,15 +180,16 @@ export default function App() {
           onSelect={handleSelect}
           currentIndex={currentIndex}
           total={questions.length}
+          showFeedback={showFeedback}
         />
 
         <div className="flex justify-end">
           <button
             onClick={handleNext}
-            disabled={selectedOption == null}
+            disabled={!showFeedback}
             className={
               `px-4 py-2 rounded-lg font-medium transition-colors ` +
-              (selectedOption
+              (showFeedback
                 ? 'bg-blue-600 text-white hover:bg-blue-700'
                 : 'bg-gray-200 text-gray-500 cursor-not-allowed')
             }
